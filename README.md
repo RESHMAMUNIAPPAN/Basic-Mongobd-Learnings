@@ -23,7 +23,8 @@ uvicorn app.main:app --reload
 # 3. (Optional) Run backend script directly
 python main.py
 
-▶️ Frontend (React)
+### ▶️ Frontend (React)
+
 📂 Path:
 D:\MACHINELEARNING\Mongodbproject\task-manager-app\frontend
 
