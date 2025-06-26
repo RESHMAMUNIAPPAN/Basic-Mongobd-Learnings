@@ -35,5 +35,7 @@ npm start
 Open Command Prompt and run:
 
 mongosh
+
 use taskdb
+
 db.tasks.find().pretty()
