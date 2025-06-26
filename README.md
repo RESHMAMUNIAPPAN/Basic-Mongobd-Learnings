@@ -31,7 +31,7 @@ D:\MACHINELEARNING\Mongodbproject\task-manager-app\frontend
 # Start React development server
 npm start
 
-▶️ MongoDB Setup (Command Prompt)
+### ▶️ MongoDB Setup (Command Prompt)
 Open Command Prompt and run:
 
 mongosh
